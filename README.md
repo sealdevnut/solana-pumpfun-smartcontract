@@ -71,10 +71,6 @@ Migration is a critical process that occurs once the bonding curve has completed
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/asseph/pumpfun-smart-contract-solana.git
-   cd pumpfun-smart-contract-solana
-   ```
 2. Install dependencies:
    ```
     - anchor : v0.31.0
